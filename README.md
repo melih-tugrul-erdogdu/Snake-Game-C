@@ -12,8 +12,11 @@ This project is a classic Snake game that runs on a console using the C programm
 
 ## 🚀 Kurulum ve Çalıştırma / Installation and Operation
 ```bash
-# Derleme
+# Derleme/Compilation:
 gcc yilanoyunu.c -o yilanoyunu
 
-# Çalıştırma
-./yilanoyunu
+# Çalıştırma/Run:
+Linux/Mac: ./yilanoyunu
+Windows: .\yilanoyunu
+```
+Yazar/Author: Melih Tuğrul Erdoğdu
