@@ -1,4 +1,19 @@
-# Snake-Game-C
-C programlama dili ile yazılmış konsol yılan oyunu / Console Snake game written in C programming language.
+# 🐍 C ile Yılan Oyunu
 
-WASD tuşları ile kontrol / Control with WASD keys.
+## 📋 Proje Hakkında / About the Project
+Bu proje, C programlama dili kullanılarak konsol üzerinde çalışan klasik yılan oyunudur. / 
+This project is a classic Snake game that runs on a console using the C programming language.
+
+## 🎮 Özellikler / Features
+- Klavye kontrolleri (WASD) / Keyboard controls (WASD)
+- Skor sistemi / Score system
+- Zorluk seviyesi artışı / Difficulty level increase
+- Oyun sonu ekranı / End game screen
+
+## 🚀 Kurulum ve Çalıştırma / Installation and Operation
+```bash
+# Derleme
+gcc yilanoyunu.c -o yilanoyunu
+
+# Çalıştırma
+./yilanoyunu
