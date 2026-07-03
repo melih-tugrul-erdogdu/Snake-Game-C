@@ -19,4 +19,3 @@ gcc yilanoyunu.c -o yilanoyunu
 Linux/Mac: ./yilanoyunu
 Windows: .\yilanoyunu
 ```
-Yazar/Author: Melih Tuğrul Erdoğdu
